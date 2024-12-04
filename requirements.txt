@@ -7,3 +7,4 @@ requests
 spacy
 spacytextblob
 pylance
+numpy
